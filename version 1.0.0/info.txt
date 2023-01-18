@@ -1,1 +1,18 @@
+A script that plays with the media up and down button creating a buffer overflow in the system 
+leading to temporary halt of the system when due to the main memory getting filled.
+
+The script has a keyboard listener which prompts the script to run immediately you press a button. 
+
+				Application
+1.Can be used to prank friends and family members there pc is hacked
+
+
+in order to get out of it :
+
+press win + l (to lock your pc)
+restart or shutdown pc
+
+
+Running this script on pc with minimal main memory may have dire effects 
+ e.g cause system crash. (Run it carefully)
 
